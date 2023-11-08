@@ -1,3 +1,4 @@
 BeatSaber/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 BeatSaber/Assets/Oculus/LipSync/Plugins/iOS/libOVRLipSync.dylib filter=lfs diff=lfs merge=lfs -text
 BeatSaber/Assets/Oculus/LipSync/Plugins/MacOSX/OVRLipSync.bundle filter=lfs diff=lfs merge=lfs -text
+BeatSaber/Temp/FSTimeGet-0f77ac5c2d6069946a1d69b54fc35a4e filter=lfs diff=lfs merge=lfs -text
